@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Goose Technologies</title>
+  <subtitle>Engineering Fun</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://gooseTechnologies.com/"/>
+  <updated>2017-01-29T01:02:47.000Z</updated>
+  <id>http://gooseTechnologies.com/</id>
+  
+  <author>
+    <name>Alex Stewart</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wifi Enabled Automatic Fish Feeder</title>
+    <link href="http://gooseTechnologies.com/2017/01/28/fishfeeder/"/>
+    <id>http://gooseTechnologies.com/2017/01/28/fishfeeder/</id>
+    <published>2017-01-29T01:02:47.000Z</published>
+    <updated>2017-01-29T01:02:47.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;figure class=&quot;left&quot;&gt;&lt;img src=&quot;/images/fishfeeder/ballooney.jpg&quot; width=&quot;120&quot;&gt;&lt;figcaption&gt;Sup&lt;/figcaption&gt;&lt;/figure&gt; &lt;/p&gt;
+&lt;h4 id=&quot;Meet-Ballooney&quot;&gt;&lt;a href=&quot;#Meet-Ballooney&quot; class=&quot;headerlink&quot; title=&quot;Meet Ballooney.&quot;&gt;&lt;/a&gt;Meet Ballooney.&lt;/h4&gt;&lt;p&gt;He&amp;#39;s a fish. He likes to eat (go figure). He&amp;#39;s our family pet that is lowest maintenance of them all. Second up is our dog Frankie, who cant be trusted (more on that in a later post). This post documents my journey to find an automatic fish feeder.
+    
+    </summary>
+    
+    
+      <category term="esp8266" scheme="http://gooseTechnologies.com/tags/esp8266/"/>
+    
+      <category term="slack" scheme="http://gooseTechnologies.com/tags/slack/"/>
+    
+      <category term="wifi" scheme="http://gooseTechnologies.com/tags/wifi/"/>
+    
+      <category term="3D Print" scheme="http://gooseTechnologies.com/tags/3D-Print/"/>
+    
+      <category term="I Made A Thing" scheme="http://gooseTechnologies.com/tags/I-Made-A-Thing/"/>
+    
+      <category term="IMAT" scheme="http://gooseTechnologies.com/tags/IMAT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Almost a Year</title>
+    <link href="http://gooseTechnologies.com/2016/09/05/Almost-a-Year/"/>
+    <id>http://gooseTechnologies.com/2016/09/05/Almost-a-Year/</id>
+    <published>2016-09-06T01:37:21.000Z</published>
+    <updated>2016-09-11T16:37:03.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So in my yearly tradition to dust of the website, here&amp;#39;s me new post slightly early. This time things have happened!
+    
+    </summary>
+    
+    
+      <category term="Predictable" scheme="http://gooseTechnologies.com/tags/Predictable/"/>
+    
+      <category term="Me" scheme="http://gooseTechnologies.com/tags/Me/"/>
+    
+      <category term="New Leaf" scheme="http://gooseTechnologies.com/tags/New-Leaf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Goodbye Octopress</title>
+    <link href="http://gooseTechnologies.com/2015/09/07/Goodbye-Octopress/"/>
+    <id>http://gooseTechnologies.com/2015/09/07/Goodbye-Octopress/</id>
+    <published>2015-09-07T19:02:38.000Z</published>
+    <updated>2015-10-03T18:42:27.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So after years of neglect. Im partaking in what is turning into a semi-yearly tradition at this point: dust of the website.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
